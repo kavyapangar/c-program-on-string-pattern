@@ -1,0 +1,2 @@
+# c-program-on-string-pattern
+ Design, Develop and Implement a program in c for the following operations on  strings a. Read a main string (str), a pattern string (pat) and a replace string (rep). b. Perform pattern matching operation: Find and replace all occurrences of pat in str with rep if pat exits in str. Report with suitable messages in case pat does not exists in string.Support the program with functions for each of the above operations. Don’t use built in functions.
